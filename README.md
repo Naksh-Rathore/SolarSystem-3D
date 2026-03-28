@@ -57,7 +57,7 @@ The project is an animated 3D scene with a model of the Solar System.
 - 🖼️ High resolution textures (8K+) with `dds` extension
 - 🖼️ Photoshop-processed skybox with high resolution textures (6K)
 - 💡 High-quality shaders
-- 💡 Blinn–Fong reflection model with normal maps to visualise surface irregularities
+- 💡 Blinn–Phong reflection model with normal maps to visualise surface irregularities
 - 💡 Accurate atmospheric scattering of planets and satellites
 - 💡 Mie scattering and accurate shadows for planetary rings
 - 💡 High-quality soft shadows using PCF and ray tracing
